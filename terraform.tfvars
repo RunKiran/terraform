@@ -1,0 +1,1 @@
+instance_names = "t3.small"
